@@ -9,6 +9,7 @@ import com.fernandoblima1.chat.domain.ChatMessage;
 /**
  * Controller class for handling chat-related functionality.
  */
+
 @Controller
 public class ChatController {
 
